@@ -25,8 +25,5 @@ Welcome to the **Simon Says Game**, a fun and interactive memory-based game wher
 - **JavaScript**: For handling the game logic, score tracking, and interactions.
 
 ## 🎬 Demo Video
-
-You can download and view the demo video from this repository:  
-[Download Simon Says Game Demo Video](Simone%20Says%20Game.mp4)
-
+https://github.com/user-attachments/assets/c41e3291-d92c-4bbe-bcbf-9cc689e4139a
 *(The video file is included in the repository as `Simone Says Game.mp4`)*
